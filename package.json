@@ -4,8 +4,14 @@
   "description": "A repo for Yatteiki Koa.",
   "license": "MIT",
   "author": "P-Chan <hello@0x50.io> (https://0x50.io/)",
-  "scripts": {},
-  "dependencies": {},
-  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon -x 'node --harmony-async-await' src/index.js"
+  },
+  "dependencies": {
+    "koa": "2.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "nodemon": "1.11.0"
+  },
   "private": true
 }
