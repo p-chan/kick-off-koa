@@ -8,7 +8,9 @@
     "start": "nodemon -x 'node --harmony-async-await' src/index.js"
   },
   "dependencies": {
-    "koa": "2.0.0-alpha.7"
+    "koa": "2.0.0-alpha.7",
+    "koa-router": "7.0.1",
+    "require-directory": "^2.1.1"
   },
   "devDependencies": {
     "nodemon": "1.11.0"
