@@ -1,0 +1,11 @@
+{
+  "name": "kick-off-koa",
+  "version": "1.0.0",
+  "description": "A repo for Yatteiki Koa.",
+  "license": "MIT",
+  "author": "P-Chan <hello@0x50.io> (https://0x50.io/)",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "private": true
+}
